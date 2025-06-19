@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="60" isGF="false" icon="Majin" camx="30" sprite="Majin/Majin" y="410" camy="-60" color="#000FFF">
+	<anim loop="false" x="275" fps="24" y="139" anim="SONICFUNLEFT" name="singLEFT"/>
+
+	<anim loop="false" x="-32" fps="24" y="181" anim="SONICFUNUP" name="singUP"/>
+
+	<anim loop="false" x="-16" fps="24" y="47" anim="SONICFUNDOWN" name="singDOWN"/>
+
+	<anim loop="false" x="-161" fps="24" y="153" anim="SONICFUNRIGHT" name="singRIGHT"/>
+
+	<anim loop="true" x="-42" fps="24" y="183" anim="SONICFUNIDLE" name="idle"/>
+</character>

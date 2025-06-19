@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="110" icon="Luther" camx="-240" y="200" isGF="false" scale="1.25" camy="40" color="#DF4217" isPlayer="false" sprite="NeedleGang/Luther">
+	<anim x="223.2" loop="false" y="-32" fps="24" anim="Idle" name="idle"/>
+	<anim x="117.6" loop="false" y="-119.2" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="212" loop="false" y="-133.6" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="280" loop="false" y="-88.8" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="195.2" loop="false" y="-53.6" fps="24" anim="Up" name="singUP"/>
+</character>

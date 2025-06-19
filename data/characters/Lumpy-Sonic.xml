@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" camx="40" isGF="false" y="0" icon="PIXEL-Lumpy" camy="60" isPlayer="false" color="#354BD1" antialiasing="false" holdTime="4.6" sprite="LumpySonic/Lumpy-Sonic">
+	<anim loop="false" x="0" anim="idle" fps="24" y="0" name="idle"/>
+
+	<anim loop="false" x="183" anim="left" fps="24" y="4" name="singLEFT"/>
+
+	<anim loop="false" x="83" anim="up" fps="24" y="31" name="singUP"/>
+
+	<anim loop="false" x="60" anim="down" fps="24" y="-102" name="singDOWN"/>
+
+	<anim loop="false" x="-14" anim="right" fps="24" y="-222" name="singRIGHT"/>
+
+</character>

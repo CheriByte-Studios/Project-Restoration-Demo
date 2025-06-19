@@ -1,0 +1,2 @@
+function postCreate()
+	allowGitaroo = false;

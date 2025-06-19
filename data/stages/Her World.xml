@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="bgs/luther/" zoom="0.75">
+	<sprite x="376" sprite="1" y="118" scale="2.4" name="bglol"/>
+	<sprite x="-396" y="-218" sprite="bg" alpha="0" name="bg"/>
+	<sprite x="-495" y="-210" sprite="hills" alpha="0" name="hill"/>
+	<combo x="828" y="181"/>
+	<gf x="984" y="184"/>
+	<sprite x="-1126" y="-70" sprite="floor-light" alpha="0" name="floor"/>
+	<dad camxoffset="300" x="106" y="79"/>
+	<bf camxoffset="-170" x="1316" camyoffset="100" y="75"/>
+	<sprite x="-1136" y="-457" sprite="light" alpha="0" name="light"/>
+	<sprite x="-507" y="379" sprite="egg" alpha="0" name="egg"/>
+	<sprite x="1733" y="413" sprite="knuckles" alpha="0" name="knuk"/>
+</stage>

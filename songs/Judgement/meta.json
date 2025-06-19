@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 146,
+	"difficulties": [
+		"HARD"
+	],
+	"needsVoices": true,
+	"parsedColor": -7376387,
+	"displayName": "Judgement",
+	"icon": "LordX-TrueForm",
+	"name": "Judgement",
+	"color": "#8F71FD",
+	"customValues": {}
+}

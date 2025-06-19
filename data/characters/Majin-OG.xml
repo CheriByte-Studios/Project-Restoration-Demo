@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="140" icon="Majin-OG" camx="0" y="290" isGF="false" scale="1.4" camy="70" color="#0000D7" isPlayer="false" holdTime="6" sprite="Majin/OG">
+	<anim x="-14.2857142857143" loop="true" y="-2.14285714285714" fps="24" anim="Majin_IDLE" name="idle"/>
+
+
+	<anim x="6.42857142857143" loop="false" y="67.8571428571429" fps="32" anim="Majin_UP" name="singUP"/>
+
+
+	<anim x="17.1428571428571" loop="false" y="-52.1428571428571" fps="32" anim="Majin_DOWN" name="singDOWN"/>
+
+
+	<anim x="187.142857142857" loop="false" y="9.28571428571429" fps="32" anim="Majin_LEFT" name="singLEFT"/>
+
+
+	<anim x="42.8571428571429" loop="false" y="-23.5714285714286" fps="32" anim="Majin_RIGHT" name="singRIGHT"/>
+
+
+</character>

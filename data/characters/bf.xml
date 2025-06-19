@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" camX="50" icon="BF" y="100" isGF="false" camY="270" scale="0.8" flipX="true" isPlayer="true" color="#5AADCD" sprite="BF/HD/BOYFRIEND">
+	<anim x="-5" loop="false" y="0" fps="24" anim="Bf Idle" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="idle"/>
+	<anim x="0" loop="false" y="-10" fps="24" anim="Bf Hey" name="singUP-alt"/>
+	<anim x="75" loop="false" y="155" fps="24" anim="Bf Left" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singLEFT"/>
+	<anim x="-35" loop="false" y="20" fps="24" anim="Bf Right miss" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singLEFTmiss"/>
+	<anim x="-30" loop="false" y="20" fps="24" anim="Bf right" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singRIGHT"/>
+	<anim x="75" loop="false" y="75" fps="24" anim="Bf left miss" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singRIGHTmiss"/>
+	<anim x="30" loop="false" y="5" fps="24" anim="Bf up" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singUP"/>
+	<anim x="50" loop="false" y="75" fps="24" anim="Bf up miss" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singUPmiss"/>
+	<anim x="-20" loop="false" y="-90" fps="24" anim="Bf down" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singDOWN"/>
+	<anim x="0" loop="false" y="-30" fps="24" anim="Bf down miss" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13" name="singDOWNmiss"/>
+</character>

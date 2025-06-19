@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 158,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Endeavors",
+	"icon": "majin",
+	"name": "Endeavors",
+	"color": "#FFFFFF",
+	"customValues": {}
+}

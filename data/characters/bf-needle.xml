@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="-30" y="20" sprite="BF/HD/needle-bf" color="#5AADCD" scale="0.5" flipX="true" camx="-230" camy="-200" isPlayer="true" icon="bf-needlemouse">
+	<anim name="singDOWN" anim="singDOWN0" x="70" y="-115" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="singLEFT0" x="147" y="27" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="singRIGHT0" x="-12" y="-20" fps="24" loop="false"/>
+	<anim name="singUP" anim="singUP0" x="-2" y="33" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="singDOWNmiss0" x="77" y="-132" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="singRIGHTmiss0" x="29" y="61" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="singLEFTmiss0" x="167" y="35" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="singUPmiss0" x="22" y="35" fps="24" loop="false"/>
+	<anim name="danceRight" anim="idle" x="0" y="0" fps="24" loop="false" indices="14,15,16,17,18,19,20,21,22,23"/>
+	<anim name="danceLeft" anim="idle" x="0" y="0" fps="24" loop="false" indices="0,1,2,3,4,5,6,7,8,9,10,11"/>
+</character>

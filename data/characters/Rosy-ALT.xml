@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Rosy_ALT" camx="50" y="150" isGF="false" camy="50" color="#3D1529" isPlayer="false" holdTime="4.6" sprite="rosy/rosy_alt">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="135" loop="false" y="20" fps="24" anim="left" name="singLEFT"/>
+	<anim x="38" loop="false" y="1" fps="24" anim="down" name="singDOWN"/>
+	<anim x="90" loop="false" y="192" fps="24" anim="up" name="singUP"/>
+	<anim x="39" loop="false" y="2" fps="24" anim="right" name="singRIGHT"/>
+</character>

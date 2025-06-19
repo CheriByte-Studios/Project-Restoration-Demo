@@ -1,0 +1,73 @@
+{
+	"events": [
+		{
+			"params": [
+				0,
+				"educator-light",
+				0,
+				false
+			],
+			"name": "Change_Character",
+			"time": 27428.5714285714
+		},
+		{
+			"params": [
+				true,
+				2.6,
+				4,
+				"cube",
+				"Out"
+			],
+			"time": 40714.2857142857,
+			"name": "Scroll Speed Change"
+		},
+		{
+			"params": [
+				1,
+				2.7
+			],
+			"time": 41142.8571428571,
+			"name": "Camera Modulo Change"
+		},
+		{
+			"params": [
+				false,
+				-10659495,
+				25,
+				"camGame"
+			],
+			"name": "Camera Flash",
+			"time": 41142.8571428571
+		},
+		{
+			"params": [
+				0,
+				"educator",
+				0,
+				false
+			],
+			"name": "Change_Character",
+			"time": 41142.8571428571
+		},
+		{
+			"params": [
+				0,
+				"educator-alt-2",
+				0,
+				false
+			],
+			"name": "Change_Character",
+			"time": 68571.4285714286
+		},
+		{
+			"params": [
+				false,
+				-15658735,
+				77,
+				"camGame"
+			],
+			"name": "Camera Flash",
+			"time": 68571.4285714286
+		}
+	]
+}

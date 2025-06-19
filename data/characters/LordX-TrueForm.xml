@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="LordX-TrueForm" camx="1060" y="0" isGF="false" scale="4.6" camy="-620" color="#3D3C6E" isPlayer="false" holdTime="12" sprite="LordX/judgement">
+	<anim x="-323" loop="false" y="203" fps="24" anim="left" name="singLEFT"/>
+	<anim x="-350" loop="false" y="135" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="-436" loop="false" y="207" fps="24" anim="up" name="singUP"/>
+	<anim x="-234" loop="false" y="-31" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-405" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+</character>

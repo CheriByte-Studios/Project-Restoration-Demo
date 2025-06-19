@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<gf/>
+	<combo/>
+	<sprite x="-126" y="-52" sprite="bgs/lumpy/bg-1" name="bg"/>
+	<sprite x="-126" y="-52" sprite="bgs/lumpy/bg-2" name="bgbefore"/>
+	<dad/>
+	<bf/>
+</stage>

@@ -1,0 +1,36 @@
+<!DOCTYPE codename-engine-character>
+<character x="-70" icon="Tails_ALT" camx="150" y="320" isGF="false" scale="1.4" camy="-50" color="#F69D3F" flipX="true" isPlayer="true" holdTime="5.5" sprite="tails/tailsalt">
+	<anim x="-5" loop="false" y="0" fps="24" anim="idle" name="idle"/>
+
+
+	<anim x="53" loop="false" y="-41" fps="24" anim="down" name="singDOWN"/>
+
+
+	<anim x="-47" loop="false" y="42" fps="24" anim="right" name="singRIGHT"/>
+
+
+	<anim x="-19" loop="false" y="253" fps="24" anim="up" name="singUP"/>
+
+
+	<anim x="80" loop="false" y="-9" fps="24" anim="left" name="singLEFT"/>
+
+
+	<anim x="-30" loop="false" y="-18" fps="24" anim="missleft" name="singLEFTmiss"/>
+
+
+	<anim x="-144" loop="false" y="192" fps="24" anim="missup" indices="2,3,4,5,6,7,8" name="singUPmiss"/>
+
+
+	<anim x="-156" loop="false" y="12" fps="24" anim="missright" name="singRIGHTmiss"/>
+
+
+	<anim x="10" loop="false" y="-81" fps="24" anim="missdown" name="singDOWNmiss"/>
+
+
+	<anim x="-81" loop="false" y="28" fps="24" anim="Ldodge" name="dodgeL"/>
+
+
+	<anim x="3" loop="false" y="67" fps="24" anim="Rdodge" name="dodgeR"/>
+
+
+</character>

@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage>
+	<gf/>
+	<sprite x="-628" y="-575" sprite="bgs/bullshit-bgs/endless/sonicFUNsky" name="sky"/>
+	<sprite x="-5" y="-198" sprite="bgs/bullshit-bgs/endless/Majin Boppers Back" type="loop" name="majin"/>
+	<sprite x="-415" y="-409" sprite="bgs/bullshit-bgs/endless/Majin Boppers Front" type="loop" name="mazin"/>
+	<sprite x="-377.5" y="401" sprite="bgs/bullshit-bgs/endless/bush 1" name="bush"/>
+	<sprite x="-434.5" y="475" sprite="bgs/bullshit-bgs/endless/Bush2" name="bush2"/>
+	<sprite x="-643.5" y="536.5" sprite="bgs/bullshit-bgs/endless/floor BG" name="bgfloor"/>
+	<bf x="876" y="234.5"/>
+	<dad x="-31" y="133.5"/>
+	<sprite x="-331.5" y="877" sprite="bgs/bullshit-bgs/endless/majin FG2" type="loop" scale="1.2" name="bleh"/>
+	<sprite x="1127" y="897.5" sprite="bgs/bullshit-bgs/endless/Majin FG1" type="loop" scale="1.2" name="mlem"/>
+	<sprite x="-793" y="-87" sprite="bgs/bullshit-bgs/endless/overlay" alpha="0.2" scale="2" name="over"/>
+	<combo x="740.5" y="349"/>
+</stage>
