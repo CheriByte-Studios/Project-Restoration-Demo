@@ -6,3 +6,6 @@ Due to this being just a demo we are not taking any pull requests or issues. Eve
 
 ## Installation
 Since this demo is a modpack, you are going to need [Codename engine](https://github.com/CodenameCrew/CodenameEngine) to install it. Once you have downloaded Codename, drop this into the mods folder.
+
+## Information About the Demo 2 Update
+Due to particular circumstances the demo may take longer to release as a playable state than when the showcase video releases. Be patient. 
